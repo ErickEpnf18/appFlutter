@@ -4,8 +4,17 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Here you can see the tutorial followed.
+https://codelabs.developers.google.com/codelabs/first-flutter-app-pt2#0
 
+![Flutter Deploy](img/flutter.jpg)
+![Flutter Deploy](img/flutter1.jpg)
+
+## Integrants:
+### Josue Singaña
+### Erick Andrade
+### Jhosef Rea
+### Christina Soledispa
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
